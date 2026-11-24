@@ -1,0 +1,10 @@
+models/
+.venv/
+__pycache__/
+*.wav
+*.mp4
+*.jpg
+*.png
+.env
+.env.*
+!.env.example
