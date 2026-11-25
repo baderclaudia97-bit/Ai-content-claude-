@@ -1,0 +1,14 @@
+{
+  "name": "ai-media-factory-tools",
+  "description": "Original media production workflow",
+  "owner": {
+    "name": "AI Media Factory"
+  },
+  "plugins": [
+    {
+      "name": "ai-media-factory",
+      "source": "./plugins/ai-media-factory",
+      "description": "Research, animation planning, independent review and controlled delivery"
+    }
+  ]
+}

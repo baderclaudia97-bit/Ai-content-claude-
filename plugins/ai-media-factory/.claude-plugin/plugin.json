@@ -1,0 +1,9 @@
+{
+  "name": "ai-media-factory",
+  "displayName": "AI Media Factory",
+  "version": "0.1.0",
+  "description": "Coordinate evidence-led scripts, animated shot design and independent media review with explicit budget and publication gates.",
+  "author": {
+    "name": "AI Media Factory"
+  }
+}
